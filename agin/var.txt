@@ -1,0 +1,12 @@
+token=6292231891:AAE2G8tPaEWl3wyx-gKKjAe_UyN29PjEq4o
+lanky=EasdWAEWQsadhadsafasifhsaffsdaradhsafs
+apiKey=jdKS9PDFXsaMI71CLHTyZYdEOVqJqBph5RpjBWFD
+privateKey=RTkPP-kDnTo-am94x-4Bvdc-AdN8w
+merchant_ref=VPN STORE
+merchant_code=T28722
+LOGS=-1002082560851
+AUTH_KEY=rafan
+ADMIN1=123456
+ADMIN2=123456
+ADMIN3=123456
+ADMIN4=123456
